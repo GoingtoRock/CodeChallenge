@@ -1,1 +1,3 @@
-# List of code challenges from various websites, like hackerrank.com
+** Codechallenges **
+
+ list of codes from various websites, like hackerrank.com
