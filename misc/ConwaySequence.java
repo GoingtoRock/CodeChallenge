@@ -44,10 +44,10 @@ public class ConwaySequence {
 		/* line range : 1 to 25 */
 		int line = sc.nextInt();
 	 
-		for (int i = 1; i <= line; i++) {
-			System.out.println(n);
+		for (int i = 1; i < line; i++) {
 			n = conwaySequence(n);             
 		}
+		System.out.println(n);
 	}
 	
 }
